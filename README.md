@@ -28,5 +28,8 @@
   
 4. ᴀꜰᴛᴇʀ ᴄʟɪᴄᴋ 'ᴄᴏɴɴᴇᴄᴛ' ʙᴜᴛᴛᴏɴ 🤫 sᴄʀᴇᴇɴ sʜᴏᴛ 👇
      <p align="center">
-  <img src="https://telegra.ph/file/5fb361a33af245aaee1a9.png">
+  <img src="https://telegra.ph/file/49f931cf1ee2646f0a58f.png">
 </p>
+
+
+# BOOM! YOUR RDP IS READY TO USE.!
