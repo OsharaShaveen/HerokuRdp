@@ -16,7 +16,7 @@
 3. ᴀꜰᴛᴇʀ ᴄʟɪᴄᴋ ᴅᴇᴘʟᴏʏ ʙᴜᴛᴛᴏɴ 🤫 
 4. ᴀꜰᴛᴇʀ ᴄʟɪᴄᴋ ᴍᴀɴᴀɢᴇ ᴀᴘᴘ 🤫
    <p align="center">
-  <img src="https://telegra.ph/file/6010092cafb71bfa335e2.png">
+  <img src="https://telegra.ph/file/b24b5a3fad94291e45e93.png">
 </p>
 
 ### 𝘈𝘧𝘵𝘦𝘳 𝘋𝘦𝘱𝘭𝘰𝘺
