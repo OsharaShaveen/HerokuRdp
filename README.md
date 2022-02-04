@@ -16,4 +16,7 @@
 ### 𝘈𝘧𝘵𝘦𝘳 𝘋𝘦𝘱𝘭𝘰𝘺
 
 1. ɢᴏ ʏᴏᴜʀ ᴀᴘᴘ'ꜱ 'ꜱᴇᴛᴛɪɴɢꜱ' 🤫
- https://telegra.ph/file/906a3928189ef519970c0.jpg
+ <p align="center">
+  <img src="https://telegra.ph/file/906a3928189ef519970c0.jpg">
+</p>
+
