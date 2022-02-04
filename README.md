@@ -23,3 +23,5 @@
     <p align="center">
   <img src="https://telegra.ph/file/9099badaf3158ffa975d0.jpg">
 </p>
+3. ᴄʟɪᴄᴋ ʟɪɴᴋ ɪɴ 'ᴅᴏᴍᴀɪɴꜱ' ꜱᴇᴄᴛɪᴏɴ 🤫
+   ᴇx - example.herokuapp.
