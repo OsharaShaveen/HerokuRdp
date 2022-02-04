@@ -24,4 +24,9 @@
   <img src="https://telegra.ph/file/9099badaf3158ffa975d0.jpg">
 </p>
 3. ᴄʟɪᴄᴋ ʟɪɴᴋ ɪɴ 'ᴅᴏᴍᴀɪɴꜱ' ꜱᴇᴄᴛɪᴏɴ 🤫
-   ᴇx - example.herokuapp.
+   ᴇx - example.herokuapp.com
+  
+4. ᴀꜰᴛᴇʀ ᴄʟɪᴄᴋ 'ᴄᴏɴɴᴇᴄᴛ' ʙᴜᴛᴛᴏɴ 🤫 sᴄʀᴇᴇɴ sʜᴏᴛ 👇
+     <p align="center">
+  <img src="https://telegra.ph/file/5fb361a33af245aaee1a9.png">
+</p>
