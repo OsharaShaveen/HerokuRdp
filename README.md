@@ -19,4 +19,7 @@
  <p align="center">
   <img src="https://telegra.ph/file/906a3928189ef519970c0.jpg">
 </p>
-
+2. ᴀꜰᴛᴇʀ ʟᴏᴏᴋ ᴀᴛ 'ᴅᴏᴍᴀɪɴꜱ' ꜱᴇᴄᴛɪᴏɴ 🤫 ꜱᴄʀᴇᴇɴ ꜱʜᴏᴛ 👇
+    <p align="center">
+  <img src="https://telegra.ph/file/9099badaf3158ffa975d0.jpg">
+</p>
